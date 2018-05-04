@@ -1,0 +1,10 @@
+Image=campaign/images/Submarine_Launch_Missile.jpg
+MissionLocation=Off The Coast of Murmansk
+Briefing=<b>25 NOV 1989</b>
+Briefing=We need to cripple U.S.S.R's submarine operation. This would significantly reduce the submarine threat to NATO and UEO convoys. You need to deliver 10 Vengeance Land Attack Cruise Missile to ensure the complete destruction of Murmansk Naval Base and its surrounding facilities.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Deliver 10 Vengeance Land Attack Cruise Missile.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Damage or sink any military vessels or tenders.

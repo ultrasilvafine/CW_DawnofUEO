@@ -1,0 +1,10 @@
+Image=campaign/images/RUS_SSBN_Launch_SLBM.jpg
+MissionLocation=Somewhere north of Spitsbergen
+Briefing=<b>01 DEC 1989</b>
+Briefing=U.S.S.R is preparing to release their nuclear ICBMs towards UEO and NATO countries. A boomer and its escorts are in transit to their launch positions somewhere in the North Pole. You need to intercept them before they reach their launch positions.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink The SSBN.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Damage or sink any escorts.

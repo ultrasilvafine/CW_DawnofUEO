@@ -1,0 +1,10 @@
+Image=campaign/images/sovsub.jpg
+MissionLocation=450 N.M North of Isafjordhur
+Briefing=<b>30 OCT 1989</b>
+Briefing=Due to your actions that you took in the previous mission, your vessel is being hunted by USSR submarines. You have no choice but to take a defensive stance and sink your persuers.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Damage or Destroy all Russian submarines
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Survive

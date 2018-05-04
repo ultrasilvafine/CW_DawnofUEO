@@ -1,0 +1,9 @@
+Image=campaign/images/Surface_Ship_Attack.jpg
+MissionLocation=300 N.M South of Kitak.
+Briefing=<b>15 NOV 1989</b>
+Briefing=A group of U.S.S.R surface ships has establish a blockade around our naval base. Their ships are blocking our supply convoy from reaching our base. Without the supplies, we will be facing starvation soon and will be force to surrender.
+Briefing=
+Briefing=You are ordered to engage this blockade.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Damage or sink all surface ships in the blockade.

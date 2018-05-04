@@ -1,0 +1,11 @@
+Image=campaign/images/RUS_OscarII_SSGN.jpg
+MissionLocation=150 N.M South of Kitak.
+Briefing=<b>11 NOV 1984</b>
+Briefing=A group of hostile U.S.S.R submarines are on their way to our home base. Their intention is to launch a massive missile strike at our base so that they could cripple our sub operations. You need to intercept and stop them from reaching their designated launch coordinate.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Damage or sink all SSGNs.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Damage or sink the any escorting SSN.
+

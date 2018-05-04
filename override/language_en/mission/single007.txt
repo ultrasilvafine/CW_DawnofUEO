@@ -1,0 +1,10 @@
+Image=campaign/images/Oil-Rig.jpg
+MissionLocation=100 N.M West of Imarssuak Seachannel
+Briefing=<b>19 NOV 1989</b>
+Briefing=Several of our supply ships heading to the Imarssuak Oil Rig has gone missing without a trace. We believe that they either have been hijacked or sunk by an unknown enemy. Set course to that oil rig and investigate.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Investigate what is causing the disappearance.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- If you find any hostile contacts, you are to damage or sink them.

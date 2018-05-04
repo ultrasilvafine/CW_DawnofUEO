@@ -1,0 +1,7 @@
+Image=campaign/images/RUS_Akula_SSN.jpg
+MissionLocation=500 N.M North West East of Reykjavik Keflavik
+Briefing=<b>27 OCT 1989</b>
+Briefing=A UEO supply convoy was attacked while enroute to home base. You are ordered to find the vessels responsible for this attack.
+Briefing=
+Briefing=<b>Primary Objective:</b>
+Briefing=Locate, identify and sink any hostile vessels.

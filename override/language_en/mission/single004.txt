@@ -1,0 +1,10 @@
+Image=campaign/images/RUS_Naval_Fleet.jpg
+MissionLocation=500 N.M North Of Glasgow.
+Briefing=<b>07 NOV 1989</b>
+Briefing=As a retaliation for the sinking of their vessels that was hunting you in the previous mission, U.S.S.R has assemble an Amphibious Assault Fleet and it is heading straight to our home base. You are hereby ordered to intercept and sink the amphibious landing transports.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all amphibious transport ships.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Sink all escort vessels.

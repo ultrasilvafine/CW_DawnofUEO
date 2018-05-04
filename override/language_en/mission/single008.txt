@@ -1,0 +1,10 @@
+Image=campaign/images/AntiShip_Missile.jpg
+MissionLocation=500 N.M North of Hammerfest
+Briefing=<b>21 NOV 1989</b>
+Briefing=UEO has decided that it is time to be on the offensive. You have been given an assigment to hunt and neutralize a U.S.S.R supply convoy enroute to Murmansk. Be cautious because the convoy might have heavy escorts.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all transports
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Damage or sink the convoy's escorts.

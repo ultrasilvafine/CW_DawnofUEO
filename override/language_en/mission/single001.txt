@@ -1,0 +1,10 @@
+Image=campaign/images/USN_Virginia_SSN.jpg
+MissionLocation=Somewhere In The Greenland Sea
+Briefing=<b>24 OCT 1989</b>
+Briefing=Our sonar buoys has detected a submarine, suspected to be U.S.S.R of origin, breaching our costal borders. You have been assigned to investigate and identify the intruder.
+Briefing=
+Briefing=<b>Primary Objective:</b>
+Briefing=Identify the intruder. If they are hostile, you are clear to engage.
+Briefing=
+Briefing=<b>Secondary Objective:</b>
+Briefing=Survive.
