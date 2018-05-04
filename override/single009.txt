@@ -1,0 +1,72 @@
+//Operation Raindrops(UEO vs NATO)
+
+UseTerrain=TRUE
+MapCoordinates=3023,1149
+MapFromCampaign=North Atlantic
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic
+
+//Environment
+Date=25 NOV 1989
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=FALSE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+RequiresWeapon=usn_tlam,8,EIGHT|ueo_vengeance,8,EIGHT
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,2-2,1-1
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_em_sovremenny|wp_bpk_kanin|wp_em_kotlin|wp_skr_krivak1|wp_mpk_grisha3,wp_em_sovremenny|wp_bpk_kanin|wp_em_kotlin|wp_skr_krivak1|wp_mpk_grisha3,wp_mpk_grisha3,wp_bdk_alligator|wp_bdk_ropuchaii|wp_pb_ugra|wp_ms_leninskiy_komsomol|wp_ms_poltava|wp_ms_kommunist|wp_vt_boris_chilikin|wp_vt_dubna|wp_vt_kazbek|wp_vtr_amguema|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan
+
+FormationCruiseSpeed=8
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=TRUE
+PlayerPosition=40,350
+PlayerHeading=197
+PlayerDepthInFeet=55
+PlayerTelegraph=2
+
+//AI Nav Waypoints
+//Array of Vector 2 positions
+//Must be enough for maximum number of enemy ships
+//Inner leg
+EnemyWaypoints=-41,78|-225,137
+
+//Horizontal Inner Patrol
+EnemyWaypoints=106,117|185,520
+
+//Vert Patrol
+EnemyWaypoints=-225,222|-42,192
+
+//Vert Patrol
+EnemyWaypoints=-79,262|-77,616
+
+//Bonus
+EnemyWaypoints=-92,998|41,45
+
+//MissionPosition=13,19
+//MissionPositionColor=LAND_STRIKE
+
+//Enemy Aircraft
+NumberOfHelicopters=2
+HelicopterType=wp_helix
+NumberOfAircraft=1
+AircraftType=wp_be-12_mail
+
+//Aircraft Search Areas
+//Define a point and radius
+AircraftSearchArea=110,163,75
+AircraftSearchArea=-79,102,75
+AircraftSearchArea=-13,636,400
+
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack
+OtherVessels=biologic_humpback_whale,biologic_blue_whale,wp_ssbn_typhoon,wp_ssbn_delta4,wp_ssbn_delta3,wp_ssgn_oscar,wp_ssgn_charlie2,wp_ssgn_charlie1,wp_ssgn_echo2,wp_ssg_juliet,wp_ssn_sierra,wp_ssn_alfa,wp_ssn_victor3,wp_ssn_victor2,wp_ssn_victor1,wp_ssn_november,wp_ss_kilo,wp_ss_tango,wp_ss_foxtrot,wp_ss_romeo,wp_ss_whiskey,wp_takr_kiev,wp_rkr_kirov,wp_kr_sverdlov,wp_pkr_moskva,wp_bpk_udaloy,wp_bpk_kara,wp_bpk_kresta2,wp_rkr_kresta1,wp_em_sovremenny,wp_bpk_kashin,wp_bpk_kanin,wp_skr_krivak1,wp_mpk_grisha3,wp_mpk_poti,wp_bdk_ropucha,wp_bdk_alligator,wp_pb_ugra,wp_ms_leninskiy_komsomol,wp_ms_poltava,wp_vt_boris_chilikin,wp_vt_dubna,wp_vt_kazbek,wp_vtr_amguema,wp_vtr_andizhan,wp_vtr_andizhan_mod,wp_vtr_yuniy_partizan,wp_fv_trawler

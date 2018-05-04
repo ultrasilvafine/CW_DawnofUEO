@@ -1,0 +1,35 @@
+//Interception
+
+UseTerrain=TRUE
+MapCoordinates=2042,1165
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic
+
+//Environment
+Date=24 OCT 1989
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1
+CombatBehaviour=OFFENSIVE
+EnemyUnitMissionCritical=TRUE
+EnemyShipClasses=wp_ssn_sierra|wp_ssn_akula1|wp_ssn_akula2|wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_victor3|wp_ssn_victor2|wp_ssn_victor1
+
+FormationCruiseSpeed=8
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=wp_helix
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack
+OtherVessels=civ_fv_trawler,civ_ms_small_freighter,civ_ms_freighter_a,civ_ms_freighter_b,civ_ms_super_p,civ_ms_encounter,civ_ms_act_1,civ_ms_sl7,civ_ms_leninskiy_komsomol,civ_ms_poltava,civ_ms_kommunist,civ_vtr_amguema,civ_vtr_andizhan,civ_vtr_yuniy_partizan,civ_ms_old_small_freighter,civ_oilrig,civ_spar_rig,biologic_blue_whale,biologic_humpback_whale

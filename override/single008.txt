@@ -1,0 +1,45 @@
+//Gone Out Hunting
+
+UseTerrain=TRUE
+MapCoordinates=2791,1394
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic
+
+//Environment
+Date=21 NOV 1989
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=4-6,2-2,2-4
+CombatBehaviour=DEFENSIVE,DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,TRUE,FALSE
+EnemyShipClasses=wp_ms_leninskiy_komsomol|wp_ms_poltava|wp_ms_kommunist|wp_vtr_andizhan|wp_vtr_andizhan_mod|wp_vtr_yuniy_partizan,wp_vt_boris_chilikin|wp_vt_kazbek,wp_bpk_udaloy|wp_bpk_kara|wp_bpk_kresta2|wp_rkr_kresta1,wp_em_sovremenny|wp_bpk_kashin|wp_bpk_kanin
+
+FormationCruiseSpeed=15
+
+//Ship positions and headings, otherwise build into a formation
+UsePresetPositions=FALSE
+
+//Array of Vector 2 positions
+EnemyWaypoints=0,-100|0,100
+EnemyWaypoints=10,-100|10,100
+EnemyWaypoints=20,-100|20,100
+EnemyWaypoints=30,-100|30,100
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=wp_helix
+NumberOfAircraft=1
+AircraftType=wp_tu-142_bear
+
+
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack
+OtherVessels=civ_fv_trawler,civ_ms_small_freighter,civ_ms_freighter_a,civ_ms_freighter_b,civ_ms_super_p,civ_ms_encounter,civ_ms_act_1,civ_ms_sl7,civ_ms_leninskiy_komsomol,civ_ms_poltava,civ_ms_kommunist,civ_vtr_amguema,civ_vtr_andizhan,civ_vtr_yuniy_partizan,civ_ms_old_small_freighter,civ_oilrig,civ_spar_rig,biologic_blue_whale,biologic_humpback_whale

@@ -1,0 +1,46 @@
+//The Blockade
+
+UseTerrain=TRUE
+MapCoordinates=947,1801
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic
+
+//Environment
+Date=15 NOV 1989
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,2-2,2-4
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,TRUE,TRUE
+EnemyShipClasses=wp_rkr_kirov,wp_bpk_udaloy|wp_bpk_kara|wp_bpk_kresta2|wp_rkr_kresta1,wp_em_sovremenny|wp_bpk_kashin|wp_bpk_kanin|wp_em_kotlin
+
+FormationCruiseSpeed=15
+
+//Ship positions and headings otherwise build into a formation
+UsePresetPositions=FALSE
+
+//Group 1 Waypoints
+EnemyWaypoints=0,-100|0,100
+//Group 2 Waypoints
+EnemyWaypoints=10,-100|10,100
+//Group 3 Waypoints
+EnemyWaypoints=0,100|0,-100
+
+
+//Enemy Aircraft
+NumberOfHelicopters=2
+HelicopterType=wp_helix
+//Enemy Fixed Wing Aircraft
+NumberOfAircraft=0
+AircraftType=wp_il-38_may
+
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack

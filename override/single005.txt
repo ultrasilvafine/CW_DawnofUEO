@@ -1,0 +1,34 @@
+//When It Rains It Pours
+
+UseTerrain=TRUE
+MapCoordinates=1084,1825
+MapNavigationData=campaign/images/maps/norwegian_sea_navmap
+MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+VesselsAndTraffic=campaign/maps/norwegian_sea_traffic
+
+//Environment
+Date=11 NOV 1984
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=TRUE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=2-2,2-2
+CombatBehaviour=DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,TRUE,FALSE
+EnemyShipClasses=wp_ssgn_yasen|wp_ssgn_oscar|wp_ssgn_charlie2|wp_ssgn_charlie1|wp_ssgn_echo2,wp_ssn_sierra|wp_ssn_akula1|wp_ssn_akula2|wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_victor3|wp_ssn_victor2|wp_ssn_victor1
+
+FormationCruiseSpeed=8
+
+//Enemy Aircraft
+//NumberOfHelicopters=0
+//HelicopterType=wp_helix
+//NumberOfAircraft=0
+//AircraftType=wp_tu-142_bear
+
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack
