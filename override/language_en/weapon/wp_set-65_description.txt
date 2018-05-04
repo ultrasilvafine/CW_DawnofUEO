@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SET-65
+WeaponDescriptiveName=SET-65 Torpedo
+WeaponDescription=The SET-65 is an electrical dual-purpose torpedo with active acoustic guidance. The range of the homing system is about 880 yards.

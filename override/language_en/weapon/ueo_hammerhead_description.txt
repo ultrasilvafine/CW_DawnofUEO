@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Hammerhead
+WeaponDescriptiveName=Hammerhead Heavyweight Torpedo
+WeaponDescription=The Hammerhead is an advanced dual-purpose torpedo just recently enter service with the UEO. It combines great speed and an advanced digital passive/active homing system along with a range of 3900 yards.

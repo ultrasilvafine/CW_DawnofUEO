@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MK 48-ADCAP
+WeaponDescriptiveName=Mark 48 ADCAP Torpedo (MK48-ADCAP)
+WeaponDescription=The MK48 ADCAP torpedo is a heavyweight acoustic-homing torpedo with sophisticated sonar, all-digital guidance-and-control systems, digital fusing systems, and propulsion improvements. It features several improvements over the original MK48, including an increased range of 42000 yards and a larger warhead.

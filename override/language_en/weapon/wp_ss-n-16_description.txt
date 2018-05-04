@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-16
+WeaponDescriptiveName=SS-N-16 ASW Missile
+WeaponDescription=Submarine-launched stand-off ASW missile. It is similar to the SS-N-14 and drops the same UGMT homing torpedo.

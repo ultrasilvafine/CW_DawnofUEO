@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=AT-2
+WeaponDescriptiveName=AT-2 Torpedo
+WeaponDescription=The AT-2 is an electrical air-dropped torpedo with active/passive acoustic guidance. The range of the homing system is about 1100 yards.

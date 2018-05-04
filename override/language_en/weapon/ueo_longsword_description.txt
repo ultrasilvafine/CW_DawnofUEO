@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Longsword
+WeaponDescriptiveName=UEO Longsword ASW Missile
+WeaponDescription=Submarine-launched stand-off ASW missile. It is similar to the SS-N-14, SS-N-16 and SUBROCII. It drops a lightweight Piranha acoustic homing torpedo that has the capability to hunt its target at speed of 56 knots.

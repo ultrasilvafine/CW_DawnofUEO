@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SS-N-14
+WeaponDescriptiveName=SS-N-14 Silex ASW Missile
+WeaponDescription=Subsonic ASW missile equipped on most Soviet large anti-submarine ships as well as the frigates of the Krivak class. It can be launched to the first convergence zone, and drops an UGMT homing torpedo. Because it has a larger range than the effective range of the surface ship, it can use targeting data transmitted from any friendly sea or air unit via datalink.

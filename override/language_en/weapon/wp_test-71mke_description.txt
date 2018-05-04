@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=TEST-71MKE
+WeaponDescriptiveName=TEST-71MKE ASW Torpedo
+WeaponDescription=This electrical torpedo is a further improvement of the TEST-71M wire-guided torpedo. The speed and range remain the same but the sensor range has been increased to around 2000 yards.

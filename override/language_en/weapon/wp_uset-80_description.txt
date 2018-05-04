@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=USET-80
+WeaponDescriptiveName=USET-80 Torpedo
+WeaponDescription=This soviet dual-purpose torpedo equips the latest technology and boasts similar performance to the Mk48. It has an active/passive homing system with a great range of 3000 yards, making this a dangerous weapon to contend with.

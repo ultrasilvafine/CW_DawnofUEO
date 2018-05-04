@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=TEST-71
+WeaponDescriptiveName=TEST-71 ASW Torpedo
+WeaponDescription=This electrical torpedo improves on the SET-65 by introducing wire guidance and more advanced active/passive homing capabilities. However the range of the homing system remains the same.

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Broadsword
+WeaponDescriptiveName=Broadsword Missile
+WeaponDescription=The Broadsword Anti Ship Missile is a submarine launch missile developed by UEO. Compare to it's rival, Broadsword missile has a smaller warhead and comparatively slow. It is meant for surface targets that is lacking anti-missile defences. If faced with a surface target with a formidable defence, it is best to launch The Broadsword Missile in salvos to guarantee success rate.

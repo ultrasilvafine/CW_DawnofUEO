@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Piranha
+WeaponDescriptiveName=UEO Piranha Deep-Water Lightweight Torpedo
+WeaponDescription=The Piranha airborne light ASW acoustic homing torpedo is designed by UEO to engage current and future submarines in at depth from the surface down to 800 metres at speed of up to 56 knots.\n\nOnce entering water, the control surfaces of the torpedo enable the torpedo to travel in a spiral path with the help of gravity without starting the engine. During this stage, the acoustic seeker of the torpedo searches for targets. Once the target is identified, the engine starts and solid propellant rocket engine ensures the targets has virtually very little or no time to react, thus increasing the kill probability.

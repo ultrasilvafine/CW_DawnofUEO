@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UEO MOSS
+WeaponDescriptiveName=UEO Mobile Submarine Simulator (MOSS)
+WeaponDescription=The UEO MOSS is a passive decoy that attempts to simulate the sound of a submarine to lure enemy passive sonar. It is launched on a straight track and remains at launch depth, which means a submarine can launch it and escape on the opposite side of the layer.

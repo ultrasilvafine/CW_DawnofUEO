@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SET-40
+WeaponDescriptiveName=SET-40 Torpedo
+WeaponDescription=The SET-40 is an electrical anti-submarine torpedo with active/passive acoustic guidance. The range of the homing system is about 880 yards.

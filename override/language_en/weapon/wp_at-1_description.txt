@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=AT-1
+WeaponDescriptiveName=AT-1 Torpedo
+WeaponDescription=The AT-1 is an electrical air-dropped torpedo with active/passive acoustic guidance carried only by helicopters. The range of the homing system is about 1100 yards.
