@@ -1,5 +1,4 @@
 # CW_DawnofUEO
-<img src="https://drive.google.com/open?id=1I4fergQDvsgMBdQw2YRVYzpbw7R0TOKd" />
 <hr/>
 <h3>INTRODUCTION</h3>
 <hr/>
