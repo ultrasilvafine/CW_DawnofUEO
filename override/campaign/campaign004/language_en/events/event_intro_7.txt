@@ -1,0 +1,15 @@
+NextAction=MAP
+Image=campaign/images/United_Earth_Ocean.png,campaign/images/United_Earth_Ocean1.png,campaign/images/United_Earth_Ocean2.png
+Photo=campaign/images/photos/infantry pact 4,campaign/images/photos/infantry pact 5,campaign/images/photos/air pact helicopters 1
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>SOVIETS ATTACK<n></b>WAR DECLARED
+Color=57,61,73,255
+Sentence1=Soviet infantry and armoured units, supported by strike aircraft, have today stormed through Poland and are pushing through the North German Plains into West Germany, penetrating the inter-German border in a surprise attack. Initial negotiation attempts rapidly broke down and a state of war has officially been declared between NATO countries and the Soviet Union. NATO losses are reportedly high.
+Color=218,218,208,255
+Sentence2=UEO Sub Command has ordered any available sub to take position in the Atlantic, Norwegian Sea and Northern Atlantic. We have informed NATO of our defensive intentions and are sending a few submarines in support of NATO efforts. You are hereby assign to NORLANT (Northern Sub-Area) under NATO and will be base in Holy Loch. Good Hunting!

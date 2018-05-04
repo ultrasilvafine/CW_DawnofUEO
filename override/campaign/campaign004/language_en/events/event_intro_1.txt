@@ -1,0 +1,19 @@
+NextAction=event_intro_2
+Image=campaign/images/photos/rds-1.jpg
+Photo=campaign/images/photos/crater-semipalatinsk_01.jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>First Lightning</b>
+Color=57,61,73,255
+Sentence1=U.S.S.R has successfully conducted its first nuclear test. The bomb, codename RDS-1, also now as First Lighting, has a explosion yield of 22 kilotons and was detonated at Semipalatinsk test site, Kazakh. Soviet physicists was celebrated as Heroes of the Soviet Union.
+Color=218,218,208,255
+Sentence2=After hearing the successful Soviet nuclear test, some of the world’s neutral countries took heed and foreseen that a conflict between eastern and western bloc is about to escalate and it will only get worst as time progresses.
+
+
+
+

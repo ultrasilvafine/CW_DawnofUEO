@@ -1,0 +1,15 @@
+NextAction=event_intro_4
+Image=campaign/images/photos/Cuban_Missile_Crisis_UN.jpg
+Photo=campaign/images/photos/JFK_assasination2.jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Cuban Missile Crisis</b>
+Color=57,61,73,255
+Sentence1=U.S.S.R has agreed to Cuba's request to place nuclear missiles on the island to deter any future invasion. The missile preparations were confirmed when an Air Force U-2 spy plane produced clear photographic evidence of medium-range (SS-4) and intermediate-range (R-14) ballistic missile facilities. In retaliation, U.S President, John F. Kennedy has declared a naval blockade to prevent any more missile from reaching Cuba.
+Color=218,218,208,255
+Sentence2=Tensions between the Soviet Union and the US are continually increasing. UEO leaders proposing that their research on submersibles should be a national priority. After the news of JFK’s assassination, U.E.O leaders decided that their submersible, moving forward, should be military oriented to protect the organizations from unwanted conflict that is brewing between Eastern and Western bloc.
