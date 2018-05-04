@@ -2,7 +2,7 @@
 <hr/>
 <h3>INTRODUCTION</h3>
 <hr/>
-<p align="center">Welcome to Dawn of UEO Mod repository! Thank you for your interest and for visiting this repository.</p>
+<p>Welcome to Dawn of UEO Mod repository! Thank you for your interest and for visiting this repository.</p>
 <p>This Github repository is the official development center for the Dawn of UEO mod for Cold Waters.</p>
 <p>Click here to download the latest official, stable public release of the mod. It will be updated from time to time to reflect the latest major changes and addons after they have been completed and are verified working.</p>
 <p>If you want to report a bug or issues, the best place to let us know about it is to open a new Issue here on Github and I'll see it and respond. You can also inform me directly in my Discord.</p>
