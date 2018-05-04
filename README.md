@@ -1,0 +1,2 @@
+# CW_DawnofUEO
+This is a mod for the famous submarine simulation game by Killerfish Studios, Cold Waters. This mod allows player   to play as an Imaginary faction, The United Earth Ocean and drive 4 newly designed submarines (based on the models   from the game). The mod contains 10 custom single mission, 2 campaign (1989 and 1996 - partly modded) and 9 new   medals. The mod is opt for version 1.14. 
