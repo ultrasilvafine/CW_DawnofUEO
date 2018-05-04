@@ -66,6 +66,12 @@
 <p>I am doing this on a full time basis and any support or donations is highly appreciated. I'm planning to develop mods for other games as well and host it here. I don't have a donation page specifically set up for this mod, but I do have a Paypal site that is dedicated for donations. 
 <p>If you'd like to send a donation, follow the Paypal link below. The page will say "Ultra Silvafine Mod Houzz".</p>
 <p> Donate to Ultra Silvafine Mod Houzz : </p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SWSKJJY4R57X6">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 <p>If you want to follow me on social media, you can add me in any of the links below.</p>
 
 Facebook	: 
