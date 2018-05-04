@@ -1,0 +1,9 @@
+Only .JPG & .PNG Format are excepted.
+
+The official directory in the mod for textures will be:
+override/vessels/textures. 
+
+Format in the vessel file goes like this:
+
+
+MaterialTextures=vessels/textures/ueo_ssn_poseidon.png
