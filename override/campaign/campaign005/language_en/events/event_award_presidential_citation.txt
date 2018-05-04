@@ -1,0 +1,13 @@
+NextAction=MAP
+Image=campaign/images/United_Earth_Ocean.png,campaign/images/United_Earth_Ocean1.png,campaign/images/United_Earth_Ocean2.png
+Photo=campaign/images/awards/UEO_Citation.png
+Music=audio/music/Cold Waters Spotted
+Header=THE SECRETARY OF THE <n> UNITED EARTH OCEAN
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=By virtue of the authority vested in me as President of the United Earth Ocean and as Commander in Chief of the Armed Forces of the United Earth Ocean, I have today awarded
+Sentence1=<b><size=22>U.E.O PRESIDENTIAL UNIT CITATION (NAVY)<n>FOR EXTRAORDINARY HEROISM TO<n>THE OFFICERS AND MEN OF<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence2=The officers and men of <PLAYERVESSELNAVY> <PLAYERVESSELNAME> are cited for extraordinary heroism and outstanding performance of duty on <DATE> while engaged in armed conflict against enemy forces of United Earth Ocean in and around <PLAYERMAPREGION>. As a result of their intrepidity, resolution and offensive tactics mission outcome exceeded all expectations. The selfless dedication and inspiring  professional performance of the officers and men of <PLAYERVESSELNAVY> <PLAYERVESSELNAME> reflect credit upon themselves and were in keeping with the highest traditions of the U.E.O Naval Service.
+Header=FALSE
