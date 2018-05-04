@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=Golf
+Description=Golf-class Diesel-Electric Ballistic Missile Submarine
+History=This class of 24 boats is a derivative of the Foxtrot design fitted with an enlarged sail to house three SS-N-4 Sark nuclear missiles. These missiles are short-ranged, forcing these boats to patrol relatively close to the US mainland.

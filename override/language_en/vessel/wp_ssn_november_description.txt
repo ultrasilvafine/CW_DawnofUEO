@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=November
+Description=November-class Nuclear Attack Submarine
+History=Designed in the 1950's, poorly armed, loud and with inferior sonar systems, these were the Soviet Union's first nuclear submarines. Over the years they have received little in the way of upgrades, rendering them second-rate opponents at best.

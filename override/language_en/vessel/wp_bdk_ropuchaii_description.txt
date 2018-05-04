@@ -1,0 +1,6 @@
+[Unit Reference]
+ShipClass=Ropucha II
+Description=Ropucha II Class landing ship
+DefensiveWeapons=Shoulder-launched SA-5 SAM
+OffensiveWeapons=2 x 122mm artillery rocket launcher
+History=The Ropucha (toad), or Project 775 class landing ships are classified in the Russian Navy as "large landing craft" (Bol'shoy Desantnyy Korabl). \nThe 28 ships of this type were commissioned from 1975 to 1991. The last three ships were of the improved variant Project 775M, also called Ropucha II. These have improved defensive armament and accommodation for an increased number of troops.

@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=Tango
+Description=Tango-class Diesel-Electric Attack Submarine
+History=These are large diesel-electric attack submarines designed for both long-range operations and defending the arctic SSBN bastions. They are comparable to the Victor II-class nuclear attack submarines in terms of sensors and weapons, but are significantly quieter when running on batteries. This makes them suitable for Spetsnaz operations in addition to operating against NATO shipping.
