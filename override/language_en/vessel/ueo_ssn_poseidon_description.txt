@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Poseidon
+Description=[UEO] Poseidon Class SSN
+History=Self Noise Rating: 104 db\nEscape Depth: 720 ft\n\nThe Poseidon class is a nuclear-powered super fast attack submarines designed and built entirely by United Earth Ocean. The submarine were designed for a broad spectrum of open-ocean and littoral (shallow coastal water) missions and to combat the threat of large numbers of advance submarines in shallow and deep ocean environment. It has an improved design of the Universal Modular Mast (UUM) that utilizes photonic sensors, high-resolution cameras, light-intensification and infrared sensors, infrared laser rangefinder and an integrated Electronic Support Measures (ESM) array. The stealthiness of the Poseidon Class is due to its revolutionary pump-jet propulsors design which greatly reduces the risks of cavitation at shallower depth and allows for quieter operation. The Poseidon submarine was the test bed for the WSKRS Sonar Suite and The Hawkeye Radar Suite which later was implemented to all UEO's submarine classes.\n\n<b>Class Overview</b>.\nPoseidon Class Submarine\nType : Super Fast Attack Nuclear Submarine\nOperators : United Earth Ocean.\nCost : USD 987 million\nBuilt : 16\nActive : 16\n\n<b>Armament</b>\n1. Hammerhead Torpedo (21 in)\n2. Advanced UEO MOSS \n3. Broadsword anti-ship missile\n4. Longsword ASW Missile\n5. Strombringer anti-ship cruise missile\n 6. Vengeance land attack cruise missile\n\n<b>SPECIAL NOTE : This class does not actually exist in real life. It is a concept sub designed for the enjoyment of anyone who wishes to use it. It is not designed based off of any real-world specifications. The hull names and numbers used for this class are purely fictional.</b>
+
+
+[Player Ship Instances]
+PlayerClassNames=Tsovinar,Lotan,Mazu,Daucina,Aegaeon,Poseidon,Proteus,Nāmaka,Samundra,Sedna,Mizuchi,Atrimpas,Njord,Neptune,Czar Morskoy
+
+PlayerClassHullNumbers=DSV-790,DSV-274,DSV-923,DSV-748,DSV-665,DSV-877,DSV-935,DSV-780,DSV-786,DSV-920,DSV-625,DSV-635,DSV-614,DSV-987,DSV-719

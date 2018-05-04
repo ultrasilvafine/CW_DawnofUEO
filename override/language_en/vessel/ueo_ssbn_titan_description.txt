@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Titan
+Description=[UEO] Titan Class SSBN 
+History=Self Noise Rating: 110 db\nEscape Depth: 950 ft\n\nThe Titan Class Submarine is United Earth Ocean's latest nuclear ballistic missile submarine. U.E.O intelligence successfully acquired the blueprints for the Typhoon class submarine during its development in U.S.S.R. and decided to improve its design and technology. Due to automation upgrades, the sub has a large number of improvements including reinforce hull, higher top surface and submerged speeds, a significantly increased weapons capacity, improved quieting technology, improved passive and active sonar, a larger decoy capacity, faster reload time for decoys and weapons. Some of the technological breakthroughs of the Titan class submarine will later be implemented in the famous Seaquest DSV.\n\n<b>Class Overview</b>.\nTitan Class Submarine\nType : Nuclear Ballistic Missile Submarine\nOperators : United Earth Ocean.\nCost : USD 1.85 billion\nBuilt : 2\nActive : 2\n\n<b>Armament</b>\n1. Hammerhead Torpedo (21 in)\n2. Advanced UEO MOSS \n3. Broadsword anti-ship missile\n4. Longsword ASW Missile\n5. Strombringer anti-ship cruise missile\n 6. Vengeance land attack cruise missile\n\n<b>SPECIAL NOTE : This class does not actually exist in real life. It is a concept sub designed for the enjoyment of anyone who wishes to use it. It is not designed based off of any real-world specifications. The hull names and numbers used for this class are purely fictional.</b>
+
+[Player Ship Instances]
+PlayerClassNames=Cronus,Hyperion
+
+PlayerClassHullNumbers=DSV-540-B,DSV-545-B

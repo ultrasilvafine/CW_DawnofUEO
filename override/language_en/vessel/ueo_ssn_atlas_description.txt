@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Atlas
+Description=[UEO] Atlas Class SSN
+History=Self Noise Rating: 104 db\nEscape Depth: 750 ft\n\nThe Atlas Class is the latest and most expensive super fast attack nuclear submarine designed and built by United Earth Ocean. Atlas is a multi-purpose submarine and is slightly bigger but as quiet as The Poseidon class. The Atlas were designed for a broad spectrum of open-ocean and littoral (shallow coastal water) missions and to combat the threat of large numbers of advance submarines in shallow and deep ocean environment. Apart from the improved Universal Modular Mast, it also has the most advanced sonar sensors suite U.E.O has ever developed. Furthermore, the survival, propulsion and weapons modules within the sub are fully digital and is highly automated via a central super computer. It uses the pump-jet propulsors MKII design which greatly reduces the risks of cavitation at shallower depth and allows for quieter operation.\n\n<b>Class Overview</b>.\nPoseidon Class Submarine\nType : Super Fast Attack Nuclear Submarine\nOperators : United Earth Ocean.\nCost : USD 2.6 billion\nBuilt : 2\nActive : 2\n\n<b>Armament</b>\n1. Hammerhead Torpedo (21 in)\n2. Advanced UEO MOSS \n3. Broadsword anti-ship missile\n4. Longsword ASW Missile\n5. Strombringer anti-ship cruise missile\n 6. Vengeance land attack cruise missile\n\n<b>SPECIAL NOTE : This class does not actually exist in real life. It is a concept sub designed for the enjoyment of anyone who wishes to use it. It is not designed based off of any real-world specifications. The hull names and numbers used for this class are purely fictional.</b>
+
+
+[Player Ship Instances]
+PlayerClassNames=Atlas,Utlus
+
+PlayerClassHullNumbers=DSV-788,DSV-777

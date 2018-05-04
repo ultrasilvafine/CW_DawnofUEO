@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Seawolf
+Description=Seawolf-class Nuclear Attack Submarine
+History=Placeholder for VLS testing and setup.
+
+[Player Ship Instances]
+PlayerClassNames=Seawolf,Connecticut,Jimmy Carter
+
+PlayerClassHullNumbers=SSN-21,SSN-22,SSN-23
