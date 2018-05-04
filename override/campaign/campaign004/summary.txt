@@ -1,0 +1,2 @@
+Image=campaign/images/pact ground 2
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack
