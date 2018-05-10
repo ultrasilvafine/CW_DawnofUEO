@@ -1,0 +1,10 @@
+Image=campaign/images/PLA_navy_fleet.jpg
+MissionLocation=In the vicinity of Guam
+Briefing=<b>04 JUNE 1996</b>
+Briefing=A massive strike fleet was detected by our satellite and it is heading towards Guam. We need to get underway and intercept it before they can unleash their firepower on our base. All hands man battlestations! 
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all hostile vessel.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Survive.

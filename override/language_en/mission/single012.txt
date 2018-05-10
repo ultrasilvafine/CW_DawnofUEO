@@ -1,0 +1,10 @@
+Image=campaign/images/PLAN_sub_pack.jpg
+MissionLocation=In the vicinity of Luzon Straits
+Briefing=<b>28 APR 1996</b>
+Briefing=A wolf pack of PLAN submarines are terrorizing the sea lanes near Straits of Luzon. Hunt and sink them all.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all hostile vesssel within the area.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Survive.

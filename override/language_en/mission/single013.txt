@@ -1,0 +1,11 @@
+Image=campaign/images/PLAN_navy_fleet2.jpg
+//replace with china submarine wallpaper
+MissionLocation=In the vicinity of OKINAWA
+Briefing=<b>13 MAY 1996</b>
+Briefing=PLAN is sending an amphibious landing force to invade Okinawa. It seems like they are trying to diminish our allies military presence in the region. You need to stop them before they land at Okinawa.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all amphibious landing ship.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Sink all escorts.

@@ -1,0 +1,7 @@
+Image=campaign/images/china_ssbn1.jpg
+MissionLocation=In the vicinity of Subic Bay
+Briefing=<b>28 MAY 1996</b>
+Briefing=A PLAN SSBN is approaching Subic Bay and planning to initiate a missile strike on our allies naval base. We have intel indicating that the SSBN has a U.S.S.R escorts. Stop them at all cost! 
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Find and sink the SSBN and its escorts.

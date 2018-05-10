@@ -1,0 +1,10 @@
+Image=campaign/images/china_commandos.jpg
+MissionLocation=Somewhere near Busan
+Briefing=<b>21 APR 1996</b>
+Briefing=PLAN are sending an elite commando force to Busan to cause destabilization and havoc within the Korean Peninsula. You need to stop them before they land.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Sink all hostile vesssel within the area.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Survive.

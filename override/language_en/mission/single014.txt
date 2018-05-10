@@ -1,0 +1,10 @@
+Image=campaign/images/Land_missile_strike.jpg
+MissionLocation=In the vicinity of Quingdao
+Briefing=<b>20 MAY 1996</b>
+Briefing=The PLAN sub operations are hampering allies effort in the region. You are ordered to deliver 10 Land Attack Cruise Missile at Quingdao Naval Base.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Fire 10 Land Attack Cruise Missile. Direct your aim towards the base.
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Sink any hostile surface contacts.
