@@ -17,7 +17,7 @@ TelegraphSpeeds=-5,0,5,10,20,30,42
 AccelerationRate=0.3
 DecelerationRate=0.08
 RudderTurnRate=1.8
-TurnRate=2
+TurnRate=1.9
 PivotPointTurning=0.256
 DiveRate=5
 SurfaceRate=5
@@ -27,8 +27,8 @@ SubmergedAt=0.15
 CavitationParameters=20,-100
 PropRotationSpeed=-190,-190
 TestDepth=2000
-EscapeDepth=750
-PeriscopeDepthInFeet=50
+EscapeDepth=738
+PeriscopeDepthInFeet=49
 
 [Acoustics & Sensors]
 SelfNoise=104
@@ -43,7 +43,7 @@ TowedArrayPosition=0,0.0,-0.7
 
 [Weapon Systems]
 TorpedoTypes=ueo_hammerhead,ueo_moss,ueo_broadsword,ueo_longsword
-TorpedoNumbers=22,4,8,8
+TorpedoNumbers=20,8,4,4
 TorpedoTubes=11
 NumberOfWires=10
 TubeConfig=1,1,1,1,1,1,1,1,1,1,1
@@ -51,7 +51,7 @@ TorpedoTubeSize=21
 TubeReloadTime=23
 
 VLSTorpedoTypes=ueo_strombringer,ueo_vengeance
-VLSTorpedoNumbers=8,8
+VLSTorpedoNumbers=6,6
 VLSMaxDepthToFire=150
 VLSMaxSpeedToFire=10
 
@@ -133,7 +133,7 @@ MeshMast=usn_ssn_permit_radar_mast
 //Stern Stabilizer Fins
 ModelFile=ships/wp_rkr_kirov/wp_rkr_kirov
 Material=ships/usn_ssn_los_angeles/usn_ssn_los_angeles_mat
-MaterialTextures=vessels/textures/darkgrey1.png
+MaterialTextures=vessels/textures/black.png
 MeshPosition=0.02,0.02,-0.8325
 MeshRotation=0,0,135
 Mesh=wp_rkr_kirov_rudder
@@ -636,10 +636,10 @@ TorpedoSpawnPosition=0.077,-0.0426,0.56
 TorpedoEffectPosition=0.077,-0.0426,0.56
 
 //VLS Launch Position
-MeshPosition=0,0.0785,0.3516
+MeshPosition=0.0,0.0975,0.824
 MeshRotation=-90,0,0
-TorpedoSpawnPosition=0,0.0785,0.3516
-TorpedoEffectPosition=0,0.0785,0.3516
+TorpedoSpawnPosition=0.0,0.0975,0.824
+TorpedoEffectPosition=0.0,0.0975,0.824
 
 //Noisemaker Mount
 MeshRotation=0,0,0
