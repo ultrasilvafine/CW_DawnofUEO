@@ -36,6 +36,7 @@
 </table>
 <hr/>
 <h3>INSTALLATION (for MAC &amp; PC users)</h3>
+<hr/>
 <p>To install the mod, you would need to follow the steps below:</p>
 <ul>
 	<li>Please backup your moddable files found in <b>Steam\steamapps\common\Cold Waters\ColdWaters_Data\StreamingAssets\Override</b> folder. </li>
@@ -49,6 +50,50 @@
     </li>
     <li>From the extracted zip file, copy all the contents of CW_DawnOfUEO and paste it into your Override folder.</li>
     <li>Run the game and welcome to UEO Sub Command!</li>
+</ul>
+<hr>
+<h3>MOD CONTENT</h3>
+<hr/>
+<p>The mod contains 16 custom made single missions for North Atlantic and South China Sea. It also contains a few new items such as:</p>
+
+2 Campaign
+<ul>
+	<li>Dawn of UEO (based on the 1984 North Atlantic Nato Campaign)</li>
+    <li>Enter the Red Dragon (based on the 2000 South China Sea campaign)</li>
+</ul>
+Submarines:
+<ul>
+    <li><b>Poseidon Class SSN</b> (derived from the Los Angeles Class with additional mesh to make it different)</li>
+    <li><b>Atlas Class SSN</b> (derived from the Yasen Class with additional mesh to make it different)</li>
+    <li><b>Leviathan Class SSGN</b> (derived from the Oscar Class with additional mesh to make it different)</li>
+    <li><b>Titan Class SSBN</b> (derived from the Typhoon Class with additional mesh to make it different)</li>
+</ul>
+Sensors:
+<ul>
+    <li>WSKRS active Passive Sonar.</li>
+    <li>Manatee Towed Array Sonar.</li>
+    <li>Hawkeye Radar.</li>
+</ul>
+Weapons:
+<ul>
+    <li>Hammerhead Heavyweight Torpedo (model derived from the MK48)</li>
+    <li>Advanced UEO MOSS (model derived from the current MOSS)</li>
+    <li>Broadsword anti ship missile (model derived from UGM84)</li>
+    <li>Longsword anti sub missile (model derived from SS-N-16)</li>
+    <li>Strombringer  anti ship cruise missile (model derived from Tomahawk missile)</li>
+    <li>Vengeance land attack cruise missile (model derived from Tomahawk missile)</li>
+</ul>
+9 new medals
+<ul>
+    <li>Constellation of Casseopeia</li>
+    <li>The North Star</li>
+    <li>Southern Cross</li>
+    <li>Distinguish Service Medal</li>
+    <li>Defender of the Seven Seas</li>
+    <li>Joint Service Commendation</li>
+    <li>Legion of Poseidon</li>
+    <li>Orion Honor</li>
+    <li>Citation</li>
 </ul>
 <hr/>
 <h3>Submitting Bug Reports, Suggestions, and Requests</h3>
@@ -64,4 +109,13 @@
 <p>I am doing this on a full time basis and any support or donations is highly appreciated. I'm planning to develop mods for other games as well and host it here. I don't have a donation page specifically set up for this mod, but I do have a Paypal site that is dedicated for donations. 
 <p>If you'd like to send a donation, follow the Paypal link below. The page will say "Ultra Silvafine Mod Houzz".</p>
 <p> Donate to Ultra Silvafine Mod Houzz :https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P28ZT6NMJ9AQC</p>
+<!--
+<p>If you want to follow me on social media, you can add me in any of the links below.</p>
+
+Facebook	: 
+<br />Linkedin	:
+<br />Twitter	:
+<br />Youtube	:
+ -->
+
 <p>Donations are always appreciated but never required. The content of the mod is free and will never change based on donations, and work on the mod will continue whether I receive donations or not.</p>
