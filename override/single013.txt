@@ -1,0 +1,46 @@
+//Invasion of Okinawa - (UEO vs PLAN)
+
+UseTerrain=TRUE
+MapCoordinates=2417,877
+
+MapNavigationData=campaign/images/maps/south_china_sea_navmap
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry
+WorldObjectsData=campaign/maps/south_china_sea_world_objects
+VesselsAndTraffic=campaign/maps/south_china_sea_traffic
+
+//Environment
+Date=13 MAY 1996
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=FALSE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=4-4,2-4,2-4
+CombatBehaviour=DEFENSIVE,OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,FALSE,FALSE
+EnemyShipClasses=plan_lst_yukan|plan_lst_yuting|plan_ap_qiongsha,plan_ddg_sovremenny|plan_ddg_luhu|plan_ddg_luda3|plan_ddg_luda,plan_ffg_jiangwei|plan_ff_jianghu3|plan_ff_jianghu|plan_ff_chengdu
+
+FormationCruiseSpeed=12
+
+//Ship positions and headings, otherwise build into a formation
+
+//Group 1 Waypoints
+EnemyWaypoints=-150,150|0,0
+//Group 2 Waypoints
+EnemyWaypoints=-150,150|0,0
+//Group 3 Waypoints
+EnemyWaypoints=-150,150|0,0
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=plan_z-9
+NumberOfAircraft=0
+AircraftType=plan_y-8x
+
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack
+
+OtherVessels=civ_fv_trawler,civ_ms_small_freighter,civ_ms_freighter_a,civ_ms_freighter_b,civ_ms_super_p,civ_ms_encounter,civ_ms_act_1,civ_ms_sl7,civ_ms_leninskiy_komsomol,civ_ms_poltava,civ_ms_kommunist,civ_vtr_amguema,civ_vtr_andizhan,civ_vtr_yuniy_partizan,civ_ms_old_small_freighter

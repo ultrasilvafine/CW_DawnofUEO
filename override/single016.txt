@@ -1,0 +1,35 @@
+//Red Alert - (UEO vs PLAN and USSR)
+
+UseTerrain=TRUE
+MapCoordinates=3418,360
+
+MapNavigationData=campaign/images/maps/south_china_sea_navmap
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry
+WorldObjectsData=campaign/maps/south_china_sea_world_objects
+VesselsAndTraffic=campaign/maps/south_china_sea_traffic
+
+//Environment
+Date=04 JUNE 1996
+Hemisphere=South
+Time=RANDOM
+UsePresetEnvironment=FALSE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,1-1,2-4,2-4,2-4,1-1	
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+EnemyShipClasses=wp_takr_kiev,wp_rkr_kirov,plan_ddg_sovremenny|plan_ddg_luhu|plan_ddg_luda3|plan_ddg_luda,plan_ffg_jiangwei|plan_ff_jianghu3|plan_ff_jianghu|plan_ff_chengdu,plan_lst_yukan|plan_lst_yuting|plan_ap_qiongsha,plan_ssn_han|plan_ssk_song|plan_ss_kilo|plan_ss_ming
+
+FormationCruiseSpeed=10
+
+//Enemy Aircraft
+NumberOfHelicopters=1
+HelicopterType=plan_z-9
+NumberOfAircraft=0
+AircraftType=plan_y-8x
+
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack

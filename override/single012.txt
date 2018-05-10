@@ -1,0 +1,39 @@
+//Wolf Pack Terror - (UEO vs PLAN)
+
+UseTerrain=TRUE
+MapCoordinates=2136,880
+
+MapNavigationData=campaign/images/maps/south_china_sea_navmap
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry
+WorldObjectsData=campaign/maps/south_china_sea_world_objects
+VesselsAndTraffic=campaign/maps/south_china_sea_traffic
+
+//Environment
+Date=28 APR 1996
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=FALSE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,2-2
+CombatBehaviour=OFFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,TRUE
+EnemyShipClasses=plan_ssn_han,plan_ss_kilo
+
+FormationCruiseSpeed=8
+
+//Ship positions and headings, otherwise build into a formation
+
+//Enemy Aircraft
+NumberOfHelicopters=0
+HelicopterType=plan_z-9
+NumberOfAircraft=0
+AircraftType=plan_y-8x
+
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack
+
+OtherVessels=civ_fv_trawler,civ_ms_small_freighter,civ_ms_freighter_a,civ_ms_freighter_b,civ_ms_super_p,civ_ms_encounter,civ_ms_act_1,civ_ms_sl7,civ_ms_leninskiy_komsomol,civ_ms_poltava,civ_ms_kommunist,civ_vtr_amguema,civ_vtr_andizhan,civ_vtr_yuniy_partizan,civ_ms_old_small_freighter

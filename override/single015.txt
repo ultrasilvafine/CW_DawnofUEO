@@ -1,0 +1,31 @@
+//Skirmish At Subic Bay - (UEO vs PLAN and USSR)
+
+UseTerrain=TRUE
+MapCoordinates=1932,420
+
+MapNavigationData=campaign/images/maps/south_china_sea_navmap
+MapElevationData=campaign/images/maps/south_china_sea_bathymetry
+WorldObjectsData=campaign/maps/south_china_sea_world_objects
+VesselsAndTraffic=campaign/maps/south_china_sea_traffic
+
+//Environment
+Date=28 MAY 1996
+Hemisphere=North
+Time=RANDOM
+UsePresetEnvironment=FALSE
+Weather=RANDOM
+SeaState=RANDOM
+DuctStrength=RANDOM
+LayerStrength=RANDOM
+
+//Enemy Ships
+NumberOfEnemyUnits=1-1,2-3
+CombatBehaviour=DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=TRUE,FALSE
+EnemyShipClasses=plan_ssbn_xia,plan_ssn_han|wp_ssn_sierra|wp_ssn_akula1|wp_ssn_akula2|wp_ssn_alfa|wp_ssn_alfa2|wp_ssn_victor3
+
+FormationCruiseSpeed=8
+
+PlayerVessels=ueo_ssn_poseidon,ueo_ssn_atlas,ueo_ssgn_leviathan,ueo_ssbn_titan,usn_ssn_virginia,usn_ssn_seawolf,usn_ssn_los_angeles,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles_flt3,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack
+
+OtherVessels=civ_fv_trawler,civ_ms_small_freighter,civ_ms_freighter_a,civ_ms_freighter_b,civ_ms_super_p,civ_ms_encounter,civ_ms_act_1,civ_ms_sl7,civ_ms_leninskiy_komsomol,civ_ms_poltava,civ_ms_kommunist,civ_vtr_amguema,civ_vtr_andizhan,civ_vtr_yuniy_partizan,civ_ms_old_small_freighter
