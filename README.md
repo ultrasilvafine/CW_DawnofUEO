@@ -4,8 +4,8 @@
 <hr/>
 <p>Welcome to Dawn of UEO Mod repository! Thank you for your interest and for visiting this repository.</p>
 <p>This Github repository is the official development center for the Dawn of UEO mod for Cold Waters.</p>
-<p>Click here to download the latest official, stable public release of the mod. It will be updated from time to time to reflect the latest major changes and addons after they have been completed and are verified working.</p>
-<p>If you want to report a bug or issues, the best place to let us know about it is to open a new Issue here on Github and I'll see it and respond. You can also inform me directly in my Discord.</p>
+<p><a href= "https://github.com/ultrasilvafine/CW_DawnofUEO/releases">Click here</a> to download the latest official, stable public release of the mod. It will be updated from time to time to reflect the latest major changes and addons after they have been completed and are verified working.</p>
+<p>If you want to report a bug or issues, the best place to let us know about it is to <a href="https://github.com/ultrasilvafine/CW_DawnofUEO/issues">open a new Issue</a> here on Github and I'll see it and respond. You can also inform me directly in my <a href="https://discord.gg/byn5GrV">Discord</a>.</p>
 <hr/>
 <h3>IMPORTANT REMINDER - BETA BUILD IS REQUIRED!</h3>
 <hr/>
@@ -54,10 +54,8 @@
 <h3>Submitting Bug Reports, Suggestions, and Requests</h3>
 <hr/>
 <ul>
-	<li>Everyone is welcome to use the Github Issues System to submit issues, bug reports, and suggestions.</li>
-    <li>You can also inform me on Discord regarding any issues, bugg or suggestion that you would like to share with the developer.</li>
-    <li>The developer is open to anyone who would like to have their radical sub design intergrated into this mod, if it looks ok (^̮^)</li>
-    <li>The developer is also open to anyone who would like to improve this mod in terms of graphic and design because I realize that I'm not that good in this field, but there is no harm in trying, right? (^̮^)</li>
+	<li>Everyone is welcome to use the <a href="https://github.com/ultrasilvafine/CW_DawnofUEO/issues">Github Issues System</a> to submit issues, bug reports, and suggestions.</li>
+    <li>You can also inform me on <a href="https://discord.gg/byn5GrV">Discord</a> regarding any issues, bugg or suggestion that you would like to share with the developer.</li>
     <li>Keep an eye on issues you've submitted, so you can respond to developer requests if needed. Issues that require further input but do not receive it within 7 days will be closed.</li>
 </ul>
 <hr/>
@@ -65,12 +63,5 @@
 <hr/>
 <p>I am doing this on a full time basis and any support or donations is highly appreciated. I'm planning to develop mods for other games as well and host it here. I don't have a donation page specifically set up for this mod, but I do have a Paypal site that is dedicated for donations. 
 <p>If you'd like to send a donation, follow the Paypal link below. The page will say "Ultra Silvafine Mod Houzz".</p>
-<p> Donate to Ultra Silvafine Mod Houzz : https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P28ZT6NMJ9AQC</p>
-<p>If you want to follow me on social media, you can add me in any of the links below.</p>
-
-Facebook	: 
-<br />Linkedin	:
-<br />Twitter	:
-<br />Youtube	:
-
+<p> Donate to Ultra Silvafine Mod Houzz :https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P28ZT6NMJ9AQC</p>
 <p>Donations are always appreciated but never required. The content of the mod is free and will never change based on donations, and work on the mod will continue whether I receive donations or not.</p>
