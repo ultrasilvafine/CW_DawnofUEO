@@ -109,14 +109,7 @@ Weapons:
 <p>I am doing this on a full time basis and any support or donations is highly appreciated. I'm planning to develop mods for other games as well and host it here. I don't have a donation page specifically set up for this mod, but I do have a Paypal site that is dedicated for donations. 
 <p>If you'd like to send a donation, follow the Paypal link below. The page will say "Ultra Silvafine Mod Houzz".</p>
 <p> Donate to Ultra Silvafine Mod Houzz :https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P28ZT6NMJ9AQC</p>
-<!--
-<p>If you want to follow me on social media, you can add me in any of the links below.</p>
-
-Facebook	: 
-<br />Linkedin	:
-<br />Twitter	:
-<br />Youtube	:
- -->
 
 <p>Donations are always appreciated but never required. The content of the mod is free and will never change based on donations, and work on the mod will continue whether I receive donations or not.</p>
-<p align="center">Warmest Regards &amp; Thank you for you support<br/>Ultra Silvafine Mod Houzz</p>
+<p>Warmest Regards and Thank you for you support</p>
+<p>Ultra Silvafine Mod Houzz</p>
