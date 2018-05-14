@@ -119,3 +119,4 @@ Facebook	:
  -->
 
 <p>Donations are always appreciated but never required. The content of the mod is free and will never change based on donations, and work on the mod will continue whether I receive donations or not.</p>
+<p align="center">Warmest Regards &amp; Thank you for you support<br/>Ultra Silvafine Mod Houzz</p>
