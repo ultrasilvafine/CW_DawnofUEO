@@ -7,11 +7,6 @@
 <p><a href= "https://github.com/ultrasilvafine/CW_DawnofUEO/releases">Click here</a> to download the latest official, stable public release of the mod. It will be updated from time to time to reflect the latest major changes and addons after they have been completed and are verified working.</p>
 <p>If you want to report a bug or issues, the best place to let us know about it is to <a href="https://github.com/ultrasilvafine/CW_DawnofUEO/issues">open a new Issue</a> here on Github and I'll see it and respond. You can also inform me directly in my <a href="https://discord.gg/byn5GrV">Discord</a>.</p>
 <hr/>
-<h3>IMPORTANT REMINDER - BETA BUILD IS REQUIRED!</h3>
-<hr/>
-<p>The current version of the mod requires a Steam copy of the game and requires you to opt into the Beta build that includes the South China Sea campaign and all of the new units and weapons. The mod will not work without the Beta build. </p>
-<p>To opt into the Beta, open your Steam games list, right click on Cold Waters, and select "Properties". When the window opens, click the "Betas" tab and choose the beta build from the dropdown. You should see a large update download for the game. Once it finishes, you're ready to install the mod and play.</p>
-<hr/>
 <h3>SYSTEM REQUIREMENTS</h3>
 <hr/>
 <table width="60%" border="0" align="center">
